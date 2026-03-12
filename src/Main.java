@@ -16,5 +16,6 @@ public class Main {
     material.updateStock(input);
 
     System.out.println("Nome: " + client.name);
+    System.out.println("Hello!");
   }
 }
